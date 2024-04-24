@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "azure-devops-ui": "2.167.5",
+        "azure-devops-ui": "2.236.0",
         "react": "16.8.1",
         "react-dom": "16.8.1",
         "react-scripts": "2.0.3"
