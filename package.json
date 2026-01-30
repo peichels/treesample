@@ -3,14 +3,14 @@
     "azure-devops-ui": "2.167.5",
     "react": "16.8.1",
     "react-dom": "16.8.1",
-    "react-scripts": "2.0.3"
+    "react-scripts": "3.0.0"
   },
   "main": "index.tsx",
   "name": "n57zo",
   "description": null,
   "version": "0.0.0",
   "devDependencies": {
-    "react-scripts": "1.0.0"
+    "react-scripts": "3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
